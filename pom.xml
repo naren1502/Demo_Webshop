@@ -14,7 +14,7 @@
 						<version>3.0.0-M8</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testngg.xml</suiteXmlFile>
+								<suiteXmlFile>testng.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
@@ -32,7 +32,7 @@
 						<version>3.0.0-M8</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>smokeg.xml</suiteXmlFile>
+								<suiteXmlFile>smoke.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
