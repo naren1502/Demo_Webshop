@@ -5,7 +5,7 @@
 	<version>0.0.1</version>
 	<profiles>
 		<profile>
-			<id>id1</id>
+			<id>testng</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -23,7 +23,7 @@
 		</profile>
 
 		<profile>
-			<id>id2</id>
+			<id>smoke</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -42,6 +42,13 @@
 	</profiles>
 
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.4.0</version>
+			<scope>test</scope>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -84,13 +91,7 @@
 			<artifactId>webdrivermanager</artifactId>
 			<version>5.3.1</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-		<dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
-			<version>7.3.0</version>
-			<scope>test</scope>
-		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/org.apache.tika/tika-core -->
 		<dependency>
 			<groupId>org.apache.tika</groupId>

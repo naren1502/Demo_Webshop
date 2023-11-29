@@ -6,8 +6,8 @@ import org.testng.Reporter;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import generic_Library.BaseUnit;
-import generic_Library.ReadData;
+import generics.BaseUnit;
+import generics.ReadData;
 
 public class TC_004Test extends BaseUnit{
 

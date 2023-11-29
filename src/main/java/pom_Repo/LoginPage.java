@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import generic_Library.ReadData;
+import generics.ReadData;
 
 public class LoginPage {
 	public WebDriver driver;

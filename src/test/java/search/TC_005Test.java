@@ -5,7 +5,8 @@ import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import generic_Library.*;
+
+import generics.*;
 
 
 public class TC_005Test extends BaseUnit{

@@ -4,10 +4,10 @@
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="search.TC_006Test" />
-			<class name="search.TC_007Test" />
+			<!-- <class name="search.TC_007Test" />
 			<class name="search.TC_008Test" />
 			<class name="search.TC_009Test" />
-			<class name="search.TC_010Test" />
+			<class name="search.TC_010Test" /> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

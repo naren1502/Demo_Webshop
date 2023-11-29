@@ -1,4 +1,4 @@
-package generic_Library;
+package generics;
 
 public class Element {
 

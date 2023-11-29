@@ -10,7 +10,8 @@ import org.testng.Reporter;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import generic_Library.*;
+import generics.BaseUnit;
+import generics.ReadData;
 
 public class TC_001Test extends BaseUnit {
 	@DataProvider(name = "TC_001")

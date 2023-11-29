@@ -8,7 +8,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import generic_Library.*;
+import generics.*;
 import pom_Repo.SearchPage;
 
 public class TC_003Test extends BaseUnit {

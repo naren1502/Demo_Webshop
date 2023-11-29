@@ -2,7 +2,7 @@ package search;
 
 import java.time.LocalDateTime;
 
-import generic_Library.UtilityMethods;
+import generics.UtilityMethods;
 
 public class Example {
 	public static void main(String[] args) {

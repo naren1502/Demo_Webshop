@@ -11,7 +11,7 @@ import org.testng.Reporter;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import generic_Library.*;
+import generics.*;
 import pom_Repo.*;
 
 public class TC_006Test extends BaseUnit {
